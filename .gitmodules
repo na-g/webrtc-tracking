@@ -1,0 +1,3 @@
+[submodule "gn-build"]
+	path = gn-build
+	url = https://github.com/na-g/gn-build
