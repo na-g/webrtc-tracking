@@ -1,2 +1,3 @@
 language: cpp
-  install: make -C travis.makefile system-information install-deps
+install: make -C travis.makefile system-information install-deps
+script: make -C travis.makefile system-information
